@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
   <h1>⚡ YouTube Ceramic Speed</h1>
@@ -124,8 +123,3 @@ Shadows:          Multi-layered ambient diffusion + rim inner-glow
 ```
 
 ---
-
-## 📄 License
-
-This project is open-source and distributed under the **[MIT License](LICENSE)**.
-```
