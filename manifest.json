@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Speed Boost",
+  "version": "1.2.0",
+  "description": "Customizable hold-G speed boost, plus a liquid glass menu for presets and custom speeds.",
+  "content_scripts": [
+    {
+      "matches": ["https://www.youtube.com/*", "https://m.youtube.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
