@@ -1,3 +1,7 @@
+Here is the updated `README.md` tailored specifically for users who download the source code as a ZIP and load it directly into their browser:
+
+---
+
 ```markdown
 <div align="center">
 
@@ -121,4 +125,11 @@ Backdrop Filter:  blur(28px) saturate(180%)
 Bevel Specular:   border-top: 1px solid rgba(255, 255, 255, 0.42)
 Active Element:   Porcelain Ceramic Gradient (#FFFFFF -> #ECEFF3)
 Shadows:          Multi-layered ambient diffusion + rim inner-glow
+```
+
+---
+
+## 📄 License
+
+This project is open-source and distributed under the **[MIT License](LICENSE)**.
 ```
