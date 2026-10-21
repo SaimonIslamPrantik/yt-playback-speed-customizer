@@ -1,7 +1,3 @@
-Here is the updated `README.md` tailored specifically for users who download the source code as a ZIP and load it directly into their browser:
-
----
-
 ```markdown
 <div align="center">
 
