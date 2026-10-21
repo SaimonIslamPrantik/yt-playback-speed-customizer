@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>⚡ YouTube Ceramic Speed</h1>
+  <h1>⚡ YouTube Custom Playback Speed</h1>
   <p><strong>A high-performance YouTube playback controller with a White Ceramic Glass aesthetic.</strong></p>
 
   <p>
